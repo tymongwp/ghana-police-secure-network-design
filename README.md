@@ -10,7 +10,7 @@ This project focuses on designing and implementing a secure network for the Ghan
 - Implement strong authentication and access control
 - Enable secure remote access for officers
 
-## 🧠 Tools Used
+## Tools Used
 - VPN (Secure remote access)
 - Wireshark (Network traffic analysis)
 - ADAudit Plus (User activity monitoring and auditing)
@@ -21,7 +21,7 @@ This project focuses on designing and implementing a secure network for the Ghan
 - Network segmentation to control access
 - Firewall protection and monitoring
 
-## 🔐 Security Implementation
+## Security Implementation
 
 ### 1. Secure Remote Access (VPN)
 A VPN was configured to ensure encrypted communication for police officers accessing the network remotely.
